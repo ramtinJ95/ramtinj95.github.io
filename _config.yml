@@ -16,17 +16,17 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/Toronto
+timezone: Europe/Stockholm
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: GRX's Blog                          # the main title
+title: Ramtin's Blog                          # the main title
 
-tagline: Yet another InfoSec Blog.   # it will display as the sub-title
+tagline: tbd # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Yet another InfoSec Blog.
+  tbd.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ramtinj95.github.io'
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/20095224
+avatar: https//github.com/ramtinj95.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
